@@ -33,4 +33,4 @@ for (var i = 0; i < routine.length; i++) {
 
 }
 
-exerciseDog("zues","g");
+
