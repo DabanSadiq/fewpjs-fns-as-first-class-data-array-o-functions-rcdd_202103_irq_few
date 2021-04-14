@@ -30,7 +30,7 @@ for (var i = 0; i < routine.length; i++) {
   routine[i](dogName,dogBreed);
 }
 
-  
+
 }
 
 exerciseDog("zues","g");
