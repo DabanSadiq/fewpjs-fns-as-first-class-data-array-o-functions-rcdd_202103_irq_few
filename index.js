@@ -4,11 +4,11 @@ function wakeDog(dogName, dogBreed) {
 
 
 function leashDog(dogName, dogBreed) {
-  return `leash ${dogName} the ${dogBreed}`
+  return `Leash ${dogName} the ${dogBreed}`
 }
 
 function walkToPark(dogName, dogBreed) {
-  return `walk to the park with ${dogName} the ${dogBreed}`
+  return `Walk to the park with ${dogName} the ${dogBreed}`
 }
 
 function throwFrisbee(dogName, dogBreed) {
@@ -16,7 +16,7 @@ function throwFrisbee(dogName, dogBreed) {
 }
 
 function walkHome(dogName, dogBreed) {
-  return `Walk home with${dogName} the ${dogBreed}`
+  return `Walk home with ${dogName} the ${dogBreed}`
 }
 
 function unleashDog(dogName, dogBreed) {
